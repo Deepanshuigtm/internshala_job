@@ -29,8 +29,8 @@ for i in job:
         login_link = driver.find_element(By.XPATH,
                                          "//span[@data-target='#login-modal']")
         login_link.click()
-        username = '2207deepanshu@gmail.com'
-        password = '8103702636'
+        username = < enter your internshala username >
+        password = < enter your internshala password >
 
         email_input = driver.find_element(
             By.XPATH, "//input[@id='modal_email']")
