@@ -1,4 +1,4 @@
-# Internshala Application Automation
+# Auto Job
 
 This project aims to automate the internship application process on Internshala. It's designed to streamline the process of applying for multiple internships by utilizing web automation techniques.
 
